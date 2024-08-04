@@ -15,7 +15,7 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
 
 ## 🧑‍💻 Proyecto Final
 
-* El objetivo de este curso de Python tiene como objetivo que practiques tus habilidades a través de prácticas enfocadas en resolución de problemas enfocados a la vida cotidiana. 
+* * El objetivo de este curso de Python es practicar y llevar tus habilidades de lógica al siguiente nivel a través de prácticas y ejercicios planeados para este curso enfocados en resolución de problemas de la vida cotidiana. 
 
 * En este curso tienes la oportunidad de crear tus propios programas, analizar datos y crear gráficas . 
 
