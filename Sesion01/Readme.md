@@ -48,6 +48,14 @@ y para su posible solución utiliza una secuencia de instrucciones.
 ![Fácil](img/Edublocks.png)
 
 * Tienes que dar click en el siguiente botón para comenzar a codificar
+![Fácil](img/selectpython.png)
+
+* Vas a seleccionar la opción de Only Text y create
+![Fácil](img/onlytext.png) 
+
+* Verás un editor de texto como el siguiente, tendrás que escribir lo siguiente: print("Hola mundo")
+![Fácil](img/editor.png) 
+
 ## 📝 Organización de la clase
 
 - [Práctica](practica/README.md)
