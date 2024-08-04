@@ -33,14 +33,13 @@ Proceso mental a través del cual una persona se plantea un problema
 y para su posible solución utiliza una secuencia de instrucciones.
 
 * Descomposición: Ruptura de un problema en partes más pequeñas.
-![Guido](img/descomposicion.png)
-
+![PLC](img/descomposicion.png)
 * Reconocimiento de patrones: Mirar similitudes que se comparten.
-
+![PLC](img/reconocimiento-de-patrones.png)
 * Abstracción: Centrarse en la información importante.
-
+![PLC](img/abstraccion.png)
 * Algoritmo: Plan o conjunto de instrucciones, para resolver un problema.
-
+![PLC](img/algoritmo.png)
 ## 💻 Primer práctica Hola Mundo
 
 * Primero vamos a abrir nuestro explorador chrome, si no cuentas con el <a href="https://www.google.com.mx/intl/es-419/chrome/?gad_source=1&gclid=Cj0KCQjwzby1BhCQARIsAJ_0t5N9F0tV5OBlWxzP785Q2fblTO_UyMzBYiJM26qwGTDhwThDHi1Y6bUaAl8yEALw_wcB">Puedes Descargarlo aquí.</a></p>
