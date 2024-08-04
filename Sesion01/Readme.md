@@ -44,18 +44,10 @@ y para su posible solución utiliza una secuencia de instrucciones.
 
 * Primero vamos a abrir nuestro explorador chrome, si no cuentas con el <a href="https://www.google.com.mx/intl/es-419/chrome/?gad_source=1&gclid=Cj0KCQjwzby1BhCQARIsAJ_0t5N9F0tV5OBlWxzP785Q2fblTO_UyMzBYiJM26qwGTDhwThDHi1Y6bUaAl8yEALw_wcB">Puedes Descargarlo aquí.</a></p>
 
-* Vas a dirigirte a <a href="https://www.google.com.mx/intl/es-419/chrome/?gad_source=1&gclid=Cj0KCQjwzby1BhCQARIsAJ_0t5N9F0tV5OBlWxzP785Q2fblTO_UyMzBYiJM26qwGTDhwThDHi1Y6bUaAl8yEALw_wcB">Edublocks</a></p> que será nuestro editor online para hacer nuestras primeras prácticas, recuerda que este editor puede presentar fallos o bugs si se habre en un explorador diferente a chrome.
+* Vas a dirigirte a <a href="https://www.google.com.mx/intl/es-419/chrome/?gad_source=1&gclid=Cj0KCQjwzby1BhCQARIsAJ_0t5N9F0tV5OBlWxzP785Q2fblTO_UyMzBYiJM26qwGTDhwThDHi1Y6bUaAl8yEALw_wcB">Edublocks</a> que será nuestro editor online para hacer nuestras primeras prácticas, recuerda que este editor puede presentar fallos o bugs si se habre en un explorador diferente a chrome.</p> 
+![Fácil](img/Edublocks.png)
 
-Este curso va a evaluar 2 proyectos usando los siguientes temas:
-
-- Coficicación en Python
-- Variables
-- Condicionales
-- Ciclos
-- Control de versiones
-- Interfaces Gráficas
-- Apis
-
+* Tienes que dar click en el siguiente botón para comenzar a codificar
 ## 📝 Organización de la clase
 
 - [Práctica](practica/README.md)
