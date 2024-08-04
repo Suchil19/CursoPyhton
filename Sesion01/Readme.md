@@ -21,7 +21,7 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
 * **Python** es un lenguaje de programación de alto nivel (significa que esta diseñado para ser fácil de leer y escribir ) que fue creado por **Guido van Rossum** a finales de los años 80 y principios de los 90"s. Van Rossum comenzó a trabajar en Python en diciembre de 1989 como un proyecto personal durante su tiempo en el Centro para las Matemáticas y la Computación (CWI) en los Países Bajos.
 ![Guido](img/guido.png)
 * El objetivo de Van Rossum era crear un lenguaje que fuera fácil de leer y aprender, inspirado en el lenguaje de programación ABC. La primera versión pública de Python, la 0.9.0, se lanzó en febrero de **1991**. Desde entonces, Python ha evolucionado significativamente, con la versión 1.0 lanzada en enero de 1994, la versión 2.0 en octubre de 2000, y la versión 3.0 en diciembre de 2008.
-
+![Guido](img/01.png)
 * Python es conocido por su **sintaxis**( es un conjunto de reglas y estructuras que definen cómo se deben escribir las instrucciones en un lenguaje de programación específico ) clara y legible, lo que lo convierte en una excelente opción tanto para principiantes como para desarrolladores experimentados. Hoy en día, se utiliza en una amplia variedad de aplicaciones, desde desarrollo web hasta análisis de datos e IA.
 
 ## 💻 Primer práctica Hola Mundo
