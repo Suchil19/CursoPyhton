@@ -19,7 +19,7 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
 ## ⏳ Precendentes
 
 * **Python** es un lenguaje de programación de alto nivel (significa que esta diseñado para ser fácil de leer y escribir ) que fue creado por **Guido van Rossum** a finales de los años 80 y principios de los 90"s. Van Rossum comenzó a trabajar en Python en diciembre de 1989 como un proyecto personal durante su tiempo en el Centro para las Matemáticas y la Computación (CWI) en los Países Bajos.
-
+![Guido](img/guido.png)
 * El objetivo de Van Rossum era crear un lenguaje que fuera fácil de leer y aprender, inspirado en el lenguaje de programación ABC. La primera versión pública de Python, la 0.9.0, se lanzó en febrero de **1991**. Desde entonces, Python ha evolucionado significativamente, con la versión 1.0 lanzada en enero de 1994, la versión 2.0 en octubre de 2000, y la versión 3.0 en diciembre de 2008.
 
 * Python es conocido por su **sintaxis**( es un conjunto de reglas y estructuras que definen cómo se deben escribir las instrucciones en un lenguaje de programación específico ) clara y legible, lo que lo convierte en una excelente opción tanto para principiantes como para desarrolladores experimentados. Hoy en día, se utiliza en una amplia variedad de aplicaciones, desde desarrollo web hasta análisis de datos e IA.
@@ -28,7 +28,7 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
 
 * Primero vamos a abrir nuestro explorador chrome, si no cuentas con el <a href="https://www.google.com.mx/intl/es-419/chrome/?gad_source=1&gclid=Cj0KCQjwzby1BhCQARIsAJ_0t5N9F0tV5OBlWxzP785Q2fblTO_UyMzBYiJM26qwGTDhwThDHi1Y6bUaAl8yEALw_wcB">Puedes Descargarlo aquí.</a></p>
 
-* En este curso tienes la oportunidad de crear tus propios programas, analizar datos y crear gráficas . 
+* Vas a dirigirte a la siguiente página WEB . 
 
 Este curso va a evaluar 2 proyectos usando los siguientes temas:
 
@@ -39,3 +39,8 @@ Este curso va a evaluar 2 proyectos usando los siguientes temas:
 - Control de versiones
 - Interfaces Gráficas
 - Apis
+
+## 📝 Organización de la clase
+
+- [Práctica](practica/README.md)
+- [Presentación - Sesión 07](presentacion/Sesion-07.pptx)
