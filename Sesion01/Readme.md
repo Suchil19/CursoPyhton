@@ -44,7 +44,7 @@ y para su posible solución utiliza una secuencia de instrucciones.
 
 * Primero vamos a abrir nuestro explorador chrome, si no cuentas con el <a href="https://www.google.com.mx/intl/es-419/chrome/?gad_source=1&gclid=Cj0KCQjwzby1BhCQARIsAJ_0t5N9F0tV5OBlWxzP785Q2fblTO_UyMzBYiJM26qwGTDhwThDHi1Y6bUaAl8yEALw_wcB">Puedes Descargarlo aquí.</a></p>
 
-* Vas a dirigirte a la siguiente página WEB . 
+* Vas a dirigirte a <a href="https://www.google.com.mx/intl/es-419/chrome/?gad_source=1&gclid=Cj0KCQjwzby1BhCQARIsAJ_0t5N9F0tV5OBlWxzP785Q2fblTO_UyMzBYiJM26qwGTDhwThDHi1Y6bUaAl8yEALw_wcB">Edublocks</a></p> que será nuestro editor online para hacer nuestras primeras prácticas, recuerda que este editor puede presentar fallos o bugs si se habre en un explorador diferente a chrome.
 
 Este curso va a evaluar 2 proyectos usando los siguientes temas:
 
