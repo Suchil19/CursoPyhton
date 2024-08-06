@@ -1,4 +1,4 @@
-# Sesión 04 - Tipos de Datos y control de versiones
+# Sesión 04 - Entorno de desarrollo, Github y control de versiones.
 Al finalizar esta sesión, y luego de configurar tu entorno de desarrollo, serás capaz de crear un nuevo proyecto y subir tus avances a un repositorio en GitHub usando Git.
 
 ## 🎯 Objetivos
