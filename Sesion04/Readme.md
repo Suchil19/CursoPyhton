@@ -4,7 +4,7 @@ Al finalizar esta sesión, y luego de configurar tu entorno de desarrollo, será
 ## 🎯 Objetivos
 - Identificar tipos de datos y utilizarlos para la creación de un proyecto.
 - Definir las características de  Git y Github para el control de versiones
-- Crear un nuevo proyecto de Java
+- Crear un nuevo proyecto de Python.
 
 
 
@@ -21,4 +21,39 @@ Al finalizar esta sesión, y luego de configurar tu entorno de desarrollo, será
 
 * El trabajo colaborativo, una de las características fundamentales de GitHub, es posible gracias al software de código abierto Git, en el que se basa GitHub.
 
-[Configuración de Github paso a paso](instalacion-github/Readme.md)
+[Configuración de Github paso a paso](configuracion-github/Readme.md)
+
+# ¿Qué es Git?
+
+Git es un sistema de control de versiones distribuido que se ha convertido en el estándar para el desarrollo de software.
+
+- A diferencia de sistemas anteriores en **Git** cada copia de trabajo del código es también un repositorio completo. Esto permite trabajar sin conexión o de forma remota con facilidad.
+- Git está optimizado para confirmar cambios, crear ramas, fusionar y comparar versiones anteriores.Con Git puedes trabajar de manera colaborativa.
+- No se basa en los nombres de archivos, sino en el contenido real de los archivos.Tendrás un listado de los cambios(commits) y podemos volver a cualquiera de esos cambios o commits.
+
+[Instalación paso a paso Git](instalacion-git/README.md)
+
+# ¿Cómo funcionan Git y GitHub juntos? 
+
+* GitHub utiliza Git para administrar los cambios en los archivos y proporciona una interfaz web para colaborar, revisar y administrar proyectos.
+
+* Git y GitHub son dos herramientas esenciales para el desarrollo de software y el control de versiones.
+
+ - **Git**:
+   - Es un sistema de control de versiones distribuido.
+   - Guarda cada versión como una instantánea, lo que facilita la gestión de cambios.
+   - Permite a los desarrolladores trabajar en el mismo proyecto de forma independiente.
+   - Se utiliza localmente en tu máquina.
+
+ - **GitHub**:
+   - Es una plataforma de alojamiento de repositorios Git.
+   - Almacena tus archivos en un repositorio de Git.
+   - Facilita la colaboración y el seguimiento de cambios.
+   - Permite a múltiples desarrolladores trabajar en un proyecto de forma remota.
+
+## 📝 Organización de la clase
+
+- [Presentación - Sesión 04](presentacion/Sesion-04.pptx)
+- [Práctica Tipos de datos](practica/README.md)
+- [Instrucciones - Configuración Github](instalacion-github/README.md)
+- [Instrucciones - Instalación de Git](instalacion-git/README.md)
