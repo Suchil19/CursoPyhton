@@ -68,6 +68,54 @@ Podemos ver a la descomposición como la ruptura de un problema en partes más p
 * Verás un editor de texto como el siguiente, tendrás que escribir lo siguiente: print("Hola mundo")
 ![Fácil](img/editor.png) 
 
+# Conceptos Básicos
+
+A continuación haremos un repaso por los conceptos que usaremos a lo largo del curso y en todos los ejercicios que harás de ahora en adelante.
+
+## Variables
+
+Las variables en Python son fundamentales para almacenar y manipular datos vamos a ver un ejemplo.
+
+![Variable](img/variable.png) 
+
+## "Correr el código"
+
+* Ejecutar un código se refiere al proceso de llevar a cabo las instrucciones escritas en un programa informático.
+
+* Cuando ejecutas un código, el sistema operativo carga el programa en la memoria y sigue las instrucciones que has escrito. Esto puede incluir cálculos, manipulación de datos, interacción con el usuario, y más.
+
+* En Python, ejecutar un código es bastante sencillo. Puedes hacerlo directamente desde la terminal o usando un entorno de desarrollo integrado (IDE) como PyCharm o Visual Studio Code3 o en un editor en linea como Edublocks.
+
+* Generalmente tenemos que presionar un boton de play para "Correr nuestro programa" com lo vemos a continuación:
+
+![Variable](img/correr-programa.png) 
+
+
+## Print - Imprimir en pantalla
+
+La función print() en Python se utiliza para mostrar información en la pantalla. Aquí tienes algunos aspectos clave sobre su uso.
+
+![Print](img/print.png) 
+
+## Comentarios
+
+En Python, los comentarios son útiles para explicar el código y hacerlo más legible. Aquí tienes las dos formas principales de agregar comentarios.
+
+* Comentarios de una sola línea: Utiliza el símbolo de numeral (#) al inicio de la línea.
+
+![Print](img/comentario.png) 
+
+* Comentarios de múltiples líneas: Utiliza tres comillas dobles (""") al inicio y al final del bloque de texto.
+
+![Print](img/comentario-multiple.png) 
+
+
+## Texto simple en Python
+
+Para trabajar con texto simple en Python, puedes usar cadenas de texto (strings). Si soló quieres mostrar un mensaje puedes escribirlo dentro de las comillas dobles como se muestra a continuación "Hola"
+![Texto simple](img/texto-simple.png) 
+
+
 ## 📝 Organización de la clase
 
 - [Práctica](practica/README.md)
