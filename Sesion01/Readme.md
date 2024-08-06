@@ -101,11 +101,11 @@ La función print() en Python se utiliza para mostrar información en la pantall
 
 En Python, los comentarios son útiles para explicar el código y hacerlo más legible. Aquí tienes las dos formas principales de agregar comentarios.
 
-* Comentarios de una sola línea: Utiliza el símbolo de numeral (#) al inicio de la línea.
+* Comentarios de una sola línea: Utiliza el símbolo de numeral (#) al inicio de la línea. Este tipo de comentarios son útiles para recordar en un futuro lo que hiciste en tus códigos o simplemente tener un código mas legible.
 
 ![Print](img/comentario.png) 
 
-* Comentarios de múltiples líneas: Utiliza tres comillas dobles (""") al inicio y al final del bloque de texto.
+* Comentarios de múltiples líneas: Utiliza tres comillas dobles (""") al inicio y al final del bloque de texto. Esta opción es bastante útil si deseas hacer un comentario extenso de tu código.
 
 ![Print](img/comentario-multiple.png) 
 
@@ -114,6 +114,12 @@ En Python, los comentarios son útiles para explicar el código y hacerlo más l
 
 Para trabajar con texto simple en Python, puedes usar cadenas de texto (strings). Si soló quieres mostrar un mensaje puedes escribirlo dentro de las comillas dobles como se muestra a continuación "Hola"
 ![Texto simple](img/texto-simple.png) 
+
+# Buenas prácticas
+
+Las buenas prácticas en programación son un conjunto de técnicas, principios y metodologías que los desarrolladores siguen para escribir código más legible, mantenible y eficiente. Aquí te dejo algunas de las más importantes.
+
+- [Tips y buenas prácticas en Python ](buenas-practicas/Readme.md)
 
 
 ## 📝 Organización de la clase
