@@ -37,9 +37,6 @@ En Python, los números flotantes, o float, son valores numéricos que incluyen 
 
 ![Sumar números](img/flotantes.png)
 
-
-
-
 ## Concatenar
 
 Concatenar en Python significa unir dos o más cadenas de texto (strings) en una sola.
@@ -48,3 +45,8 @@ Concatenar en Python significa unir dos o más cadenas de texto (strings) en una
 También podemos repetir y concatenar cadenas de texto con el operador de multiplicación como podemos observar a continuación.
 
 ![Variable](img/multiplicacion-concatenacion.png)
+
+## 📝 Organización de la clase
+
+- [Práctica](practica/README.md)
+- [Presentación - Sesión 07](presentacion/Sesion-07.pptx)

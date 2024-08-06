@@ -5,6 +5,12 @@
 
 ![PLC](./Sesion01/img-inicio/01.png)
 
+## Requisitos Previos
+
+* Tener conocimientos de informática intermedios, archivos y carpetas, además de saber usar apps (como las de hojas de cálculo, procesadores de texto o editores de fotos).
+
+* Ser capaz de descargar, instalar y actualizar software.
+
 ## 💻 Requerimientos
 A continuación se muestran los requsitos mínimos para poder realizar las prácticas de manera correcta.<br>
 <ul>
