@@ -3,6 +3,8 @@
 ## 👋 Bienvenid@s
 - Al finalizar este curso podrás comprender la sitaxis básica de Python y podrás crear programas desde cero para resolver problemas enfocados a problemáticas de la vida real haciendo uso de los pílares del pensamiento lógico computacional.
 
+![PLC](./Sesion01/img-inicio/01.png)
+
 ## 💻 Requerimientos
 A continuación se muestran los requsitos mínimos para poder realizar las prácticas de manera correcta.<br>
 <ul>
@@ -12,6 +14,7 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
     <li>4 GB de espacio disponible en el disco como mínimo (IDE + Explorador) </li>
 </ul>
 
+![PLC](./Sesion01/img-inicio/02.png)
 
 ## 🧑‍💻 Proyecto Final
 
@@ -33,6 +36,8 @@ Este curso va a evaluar 3 proyectos usando los siguientes temas:
 - Control de versiones
 - Interfaces Gráficas
 - Api's
+
+![PLC](./Sesion01/img-inicio/03.png)
 
 ## 📘 Temario del curso
 
