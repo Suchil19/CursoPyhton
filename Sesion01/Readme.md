@@ -7,6 +7,13 @@
 
 En esta primera sesión comezarás con la **introducción** al lenguaje de programación **Python**,conocerás los precedentes del lenguaje, conocerás que es un editor de texto y lo más importante será conocer los pilares del pensamiento lógico computacional.
 
+## Requisitos Previos
+
+* Tener conocimientos de informática intermedios, archivos y carpetas, además de saber usar apps (como las de hojas de cálculo, procesadores de texto o editores de fotos).
+
+* Ser capaz de descargar, instalar y actualizar software.
+
+
 ## 📮 Requerimientos
 A continuación se muestran los requsitos mínimos para poder realizar las prácticas de manera correcta.<br>
 <ul>
