@@ -22,9 +22,10 @@ En Python, las variables pueden almacenar diferentes tipos de datos:
 * Cadenas de texto (str): Texto, como "Hola" o "Python".
 * Booleanos (bool): Valores de verdad, True o False.
 
-## Ejemplos
+## Enteros - int
+En Python, los números enteros, o int, son valores numéricos sin parte decimal. Pueden ser positivos, negativos o cero.
 
-
+![Sumar números](img/suma-numeros.png)
 
 
 
