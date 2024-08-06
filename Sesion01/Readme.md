@@ -32,13 +32,15 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
 Proceso mental a través del cual una persona se plantea un problema 
 y para su posible solución utiliza una secuencia de instrucciones.
 
-* Descomposición: Ruptura de un problema en partes más pequeñas.
+* Consiste en dividir un problema complejo en partes más pequeñas y manejables. 
+Podemos ver a la descomposición como la ruptura de un problema en partes más pequeñas.
 ![PLC](img/descomposicion.png)
-* Reconocimiento de patrones: Mirar similitudes que se comparten.
+* Una vez que has descompuesto el problema en partes más pequeñas, busca estándares o características comunes. Encontrar similitudes que se comparten te ayudará a resolver el sistema de manera más eficiente.
 ![PLC](img/reconocimiento-de-patrones.png)
-* Abstracción: Centrarse en la información importante.
+* La abstracción implica centrarse en la información importante y dejar de lado las características irrelevantes. 
 ![PLC](img/abstraccion.png)
-* Algoritmo: Plan o conjunto de instrucciones, para resolver un problema.
+* Plan o conjunto de instrucciones, para resolver un problema.
+“Ejemplo, menciona los pasos para preparar cereal”
 ![PLC](img/algoritmo.png)
 ## 💻 Primer práctica Hola Mundo
 
