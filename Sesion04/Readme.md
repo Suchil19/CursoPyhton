@@ -55,5 +55,5 @@ Git es un sistema de control de versiones distribuido que se ha convertido en el
 
 - [Presentación - Sesión 04](presentacion/Sesion-04.pptx)
 - [Práctica Tipos de datos](practica/README.md)
-- [Instrucciones - Configuración Github](instalacion-github/README.md)
+- [Instrucciones - Configuración Github](configuracion-github/README.md)
 - [Instrucciones - Instalación de Git](instalacion-git/README.md)
