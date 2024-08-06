@@ -1,4 +1,4 @@
-# Python
+# Python Fundamentals
 
 ## 👋 Bienvenid@s
 - Al finalizar este curso podrás comprender la sitaxis básica de Python y podrás crear programas desde cero para resolver problemas enfocados a problemáticas de la vida real haciendo uso de los pílares del pensamiento lógico computacional.
@@ -18,7 +18,7 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
 
 ## 🧑‍💻 Proyecto Final
 
-* * El objetivo de este curso de Python es practicar y llevar tus habilidades de lógica al siguiente nivel a través de prácticas y ejercicios planeados para este curso enfocados en resolución de problemas de la vida cotidiana. 
+* El objetivo de este curso de Python es practicar y llevar tus habilidades de lógica al siguiente nivel a través de prácticas y ejercicios planeados para este curso enfocados en resolución de problemas de la vida cotidiana. 
 
 * En este curso tienes la oportunidad de crear tus propios programas, analizar datos y crear gráficas . 
 
