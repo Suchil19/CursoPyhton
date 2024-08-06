@@ -49,3 +49,5 @@ Este curso va a evaluar 3 proyectos usando los siguientes temas:
 
 1. [Sesion 01](Sesion01/Readme.md)&nbsp;Introducción a los pilares del pensamiento lógico computacional. (Conceptos Básicos)
 2. [Sesion 02](Sesion02/Readme.md)&nbsp;Variables, Tipos de datos y Operadores Aritméticos.
+
+4. [Sesion 04](Sesion04/Readme.md)&nbsp;Entorno de desarrollo, Github y control de versiones.
