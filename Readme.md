@@ -47,11 +47,5 @@ Este curso va a evaluar 3 proyectos usando los siguientes temas:
 
 ## 📘 Temario del curso
 
-1. [Sesion 01](Sesion01/Readme.md)&nbsp;Presentación e Introducción a los pilares del pensamiento lógico computacional (Conceptos Básicos)
-2. [Sesion 02](Sesion02/Readme.md)&nbsp;Pensamiento Lógico Computacional e Introducción a Android Studio
-3. [Sesion 03](Sesion03/README.md)&nbsp;Entorno de desarrollo Android Studio e interfaces gráficas.
-4. [Sesion 04](Sesion04/README.md)&nbsp;Tipos de datos y control de versiones
-5. [Sesion 05](Sesion05/README.md)&nbsp;Estructura de aplicaciones y Codificación en Java
-6. [Sesion 06](Sesion06/README.md)&nbsp;Vinculación Java y XML
-7. [Sesion 07](Sesion07/README.md)&nbsp;Programación de Actividades
-8. [Sesion 08](Sesion08/README.md)&nbsp;Conexión con servicios del dispositivo
+1. [Sesion 01](Sesion01/Readme.md)&nbsp;Introducción a los pilares del pensamiento lógico computacional. (Conceptos Básicos)
+2. [Sesion 02](Sesion02/Readme.md)&nbsp;Variables, Tipos de datos y Operadores Aritméticos.
