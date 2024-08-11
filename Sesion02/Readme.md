@@ -48,5 +48,5 @@ También podemos repetir y concatenar cadenas de texto con el operador de multip
 
 ## 📝 Organización de la clase
 
-- [Práctica](practica/README.md)
+- [Ejercicios](ejercicios.py)
 - [Presentación - Sesión 07](presentacion/Sesion-07.pptx)
